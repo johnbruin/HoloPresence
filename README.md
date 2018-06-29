@@ -14,4 +14,4 @@ The solution consists of 2 Unity projects that are pretty much similar except th
 
 The HoloPresenceClient is a mulit platform Unity application using the Mixed Reality Toolkit App bar and Bounding box and can be deployed to a HoloLens.
 
-Developer hint: With Kinect Studio you can record the raw Kinect streams to a file and replay them anytime you want without connecting the Kinect.
+Developer hint: With Kinect Studio you can record the raw Kinect streams to a file and replay them anytime you want without the need to connect to the Kinect every time.
