@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloPresenceClient", "HoloPresenceClient.csproj", "{DD56EF08-5B0D-098A-2878-2327C33F55F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoloPresenceClient.Editor", "HoloPresenceClient.Editor.csproj", "{1A6F55BF-B14D-BE4D-C936-94266BA1B3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD56EF08-5B0D-098A-2878-2327C33F55F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD56EF08-5B0D-098A-2878-2327C33F55F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD56EF08-5B0D-098A-2878-2327C33F55F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD56EF08-5B0D-098A-2878-2327C33F55F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A6F55BF-B14D-BE4D-C936-94266BA1B3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6F55BF-B14D-BE4D-C936-94266BA1B3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6F55BF-B14D-BE4D-C936-94266BA1B3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6F55BF-B14D-BE4D-C936-94266BA1B3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
