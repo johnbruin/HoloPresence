@@ -4,6 +4,7 @@ HoloPresence is a very simple implementation of Microsoft's Holoportation.
 It takes the 3D pointcloud from the Kinect and sends this to the HoloLens client application in the same network.
 
 HoloPresence uses:
+- Unity 2017.2.1p2 or higher
 - the particle system to render the pointcloud
 - simple (and slow) Unet networking
 - Unet network discovery
